@@ -1,10 +1,10 @@
 # Scripture Converter
 
-Scripture Converter is a CLI (to be implemented) that detects, analyzes, and converts between different digital Bible formats.
+Scripture Converter is a CLI tool (to be implemented) that detects, analyzes, and converts between different digital Bible formats.
 
 ## Formats
 
-Formats to be supported (this list may be changed):
+Planned formats (this list might change):
 
 JSON:
 

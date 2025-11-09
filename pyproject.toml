@@ -1,0 +1,9 @@
+[project]
+name = "scripture-converter"
+version = "0.1.0"
+description = "scripture-converter is a CLI tool that detects and converts between different digital Bible formats"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pyyaml>=6.0.3",
+]
